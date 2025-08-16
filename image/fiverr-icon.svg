@@ -1,0 +1,13 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fiverr icon">
+  <!-- Green circle -->
+  <circle cx="128" cy="128" r="120" fill="#1DBF73"/>
+
+  <!-- White "f" -->
+  <path fill="#FFFFFF" d="
+    M98 92
+    a30 30 0 0 1 30-30h30v28h-24c-9 0-16 7-16 16v6h66v96h-30v-74h-36v74h-30V120H78v-28h20z
+  "/>
+
+  <!-- White "i" -->
+  <rect x="160" y="120" width="30" height="96" fill="#FFFFFF"/>
+</svg>
